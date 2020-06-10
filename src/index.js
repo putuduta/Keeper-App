@@ -5,8 +5,5 @@ import ReactDOM from "react-dom";
 import App from "./components/app";
 
 // eslint-disable-next-line
-ReactDOM.render(
-    <App/>,
-    document.getElementById("root")
-);
+ReactDOM.render(<App />, document.getElementById("root"));
 
